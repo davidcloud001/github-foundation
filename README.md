@@ -26,5 +26,8 @@ I will learn each concept and immediately practice it inside this repository.
 This repository will document my progress as I improve my development and GitHub skills.
 
 ---
+## Branch Practice
+
+I am learning how branches work in Git and GitHub.
 
 **Account:** davidcloud001
