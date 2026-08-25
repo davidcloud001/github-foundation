@@ -44,4 +44,36 @@ This is the core workflow I am practicing in this repository:
 
 **Issue → Branch → Commit → Pull Request → Review → Merge**
 
+## Practical GitHub Workflow Examples
+
+### Issue
+
+An Issue is used to describe and track work that needs to be done.
+
+**Example:** Improve the README with practical GitHub workflow examples.
+
+### Branch
+
+A branch provides a separate workspace for making changes without directly changing `main`.
+
+**Example:** `improve-readme-examples`
+
+### Commit
+
+A commit records a specific change made to the project.
+
+**Example:** `Add practical GitHub workflow examples`
+
+### Pull Request
+
+A Pull Request proposes changes from a branch to a target branch for review.
+
+**Example:** `improve-readme-examples` → `main`
+
+### Project
+
+A Project helps organize and track Issues through different stages.
+
+**Example:** `Todo` → `In Progress` → `Done`
+
 **Account:** davidcloud001
