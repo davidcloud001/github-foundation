@@ -1,13 +1,16 @@
-name: Hello GitHub
+name: GitHub Workflow Check
 
 on:
   push:
   pull_request:
 
 jobs:
-  hello:
+  check:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Say hello
-        run: echo "Hello from GitHub Actions!"
+      - name: Check repository
+        run: echo "GitHub Actions is checking my repository."
+
+      - name: Confirm workflow
+        run: echo "Workflow completed successfully."
